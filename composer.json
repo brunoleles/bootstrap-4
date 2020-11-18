@@ -1,10 +1,10 @@
 {
-  "name": "twbs/bootstrap",
+  "name": "bootstrap-4",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "keywords": [
     "css",
     "js",
-    "less",
+    "sass",
     "mobile-first",
     "responsive",
     "front-end",
